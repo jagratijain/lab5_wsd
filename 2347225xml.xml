@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="2347225_lab5.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<products>
+  <product>
+    <id>P123</id>
+    <name>Samsung S20</name>
+    <price>499.99</price>
+    <quantity>50</quantity>
+    <category>Electronics</category>
+  </product>
+  <product>
+    <id>C456</id>
+    <name>US POLO T-shirt</name>
+    <price>200.50</price>
+    <quantity>200</quantity>
+    <category>Clothing</category>
+  </product>
+  <product>
+    <id>B789</id>
+    <name>Harry Potter and the Chamber of Secrets</name>
+    <price>80.00</price>
+    <quantity>300</quantity>
+    <category>Books</category>
+  </product>
+  <product>
+    <id>D911</id>
+    <name>vivo 21 pro</name>
+    <price>399.99</price>
+    <quantity>999</quantity>
+    <category>Electronics</category>
+  </product>
+  <product>
+    <id>E8754</id>
+    <name>Guess jeans</name>
+    <price>400.50</price>
+    <quantity>789</quantity>
+    <category>Clothing</category>
+  </product>
+  <product>
+    <id>F154</id>
+    <name>The Great Gatsby</name>
+    <price>100.00</price>
+    <quantity>800</quantity>
+    <category>Books</category>
+  </product>
+</products>
